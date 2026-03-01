@@ -1,3 +1,2 @@
-# Python-Learning-Public
-Some learning stage Python codes.
-
+##Hello, I'm wrestlingwithcodes!
+*Currently trying to learn Python.*
